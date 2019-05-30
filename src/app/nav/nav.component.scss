@@ -1,5 +1,5 @@
 header {
-    background: rgb(0, 140, 255);
+    background: rgb(72, 168, 247);
 
     .logo {
         font-weight: bold;
@@ -21,7 +21,8 @@ header {
                     font-size: .8em;
 
                     &:hover {
-                        background: rgb(230, 7, 144);
+                        background: white;
+                        color: rgb(72, 168, 247);
                     }
                 }
             }
