@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 It is deployed on Github pages and can be found at https://victoriaaoka.github.io/angular7project/
 
-It uses the `reqres.in` free public API 
+It uses the `reqres.in` free public API.
 
 
 ## Development server
